@@ -111,6 +111,7 @@ I'm passionate about coding and creating innovative products and services. My sk
 
 I'm always eager to collaborate on exciting projects and contribute to the developer community. Feel free to explore my repositories and connect with me. Together, we can build amazing things! 😄
 
-![Profile Visits](https://profile-counter.glitch.me/Illuminatus66/count.svg)
+Profile Visits- ![Profile Visits](https://profile-counter.glitch.me/Illuminatus66/count.svg) <br>
+(I don't even understand it's utility because it also counts requests for the .svg made by the account owner itself)
 
-*Thanks for visiting!👋*
+**"I came here to drink milk and kick ass. And I've just finished my milk"**
