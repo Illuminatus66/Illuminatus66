@@ -56,6 +56,8 @@ I'm passionate about coding and creating innovative products and services. My sk
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Icon" />
     <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <img src="https://img.shields.io/badge/MySQL-%234479a1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Icon" />
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <img src="https://img.shields.io/badge/Cassandra-white?style=for-the-badge&logo=apachecassandra" alt="Cassandra Logo" />
   </div>
   
 - **Containerization:**
